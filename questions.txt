@@ -1,0 +1,4 @@
+1. A build is the assembled code, the release is the build after passing all tests, and the deploy is a release that's gone live to users.
+2. Dependencies are parts that are necessary for the code to run. Libraries, passing tests, operating system, language, github commits, apis, components, pipelines, software to launch app, trello
+3. Developer Operations ensures that code runs in multiple environments.
+4. Continuous Integration/Continous Deployment. CircleCI automatically tests code when pushed to github.
